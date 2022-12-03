@@ -12,6 +12,7 @@ class Message(models.Model):
     user = models.ForeignKey(User, related_name='messages', on_delete=models.CASCADE)
     content = models.TextField()
     date_added = models.DateTimeField(auto_now_add=True)
+    img = models.ImageField(null=True, blank=True, upload_to="images/")
 
     class Meta:
         ordering = ('date_added',)
