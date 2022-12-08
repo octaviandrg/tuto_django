@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56037507-2383-44bc-8947-309a795ecfeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project/chatapp/templates/cool-background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/cool-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/frontpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/frontpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
