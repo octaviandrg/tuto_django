@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56037507-2383-44bc-8947-309a795ecfeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project/.env.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/cool-background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/frontpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/frontpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chatapp/templates/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/chatapp/templates/room.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$cumentatie ASO.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/chatapp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/chatapp/migrations/0002_message.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/chatapp/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/scrumboard/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/scrumboard/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels-3.0.4.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/consumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/consumer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/generic/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/generic/http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/generic/websocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/generic/websocket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/hacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/hacks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/layers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/management/commands/runserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/management/commands/runserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/management/commands/runworker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/management/commands/runworker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/middleware.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/routing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/routing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/security/websocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/security/websocket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/sessions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/staticfiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/staticfiles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/live.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/live.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/websocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/testing/websocket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../venv_django/Lib/site-packages/channels/worker.py" afterDir="false" />
-    </list>
+    <list default="true" id="56037507-2383-44bc-8947-309a795ecfeb" name="Changes" comment="--" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669995987728</updated>
     </task>
+    <task id="LOCAL-00001" summary="--">
+      <created>1673517684711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673517684711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
   </component>
 </project>
